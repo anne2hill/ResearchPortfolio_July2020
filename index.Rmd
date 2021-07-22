@@ -52,7 +52,7 @@ Email: anhill1569@gmail.com
     * This example provides an overview of research I conducted as part of a blog series on COVID-19's impact on New York City. The blog post is linked below, and this document provides additional details on the analysis process.
     
 3. **Writing Samples:**
-    * [The COVID Economy: A Difficult and Unequal Recovery](https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/rmarkdown.html) 
+    * [The COVID Economy: A Difficult and Unequal Recovery](https://medium.com/nyc-opportunity/the-covid-economy-a-difficult-and-unequal-recovery-24cbe764fcd1) 
     
     * [COVID-19 Housing Crisis: The Worst is Yet to Come](https://medium.com/nyc-opportunity/covid-19-housing-crisis-the-worst-is-yet-to-come-47c120940dc7)
 
