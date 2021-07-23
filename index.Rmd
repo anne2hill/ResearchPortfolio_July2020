@@ -56,12 +56,12 @@ Email: anhill1569@gmail.com
     
     * [COVID-19 Housing Crisis: The Worst is Yet to Come](https://medium.com/nyc-opportunity/covid-19-housing-crisis-the-worst-is-yet-to-come-47c120940dc7)
 
-4. **Plotly Mapbox**  
+4. **Plotly Mapbox Examples:**  
     * [PPP Loan Distributions in NYC](https://prunycmapsfigures.github.io/Loan_Distribution_by_NYC_Zipcode.html) 
         * I created this map to visualize analyses conducted by Dr. Jihyun Shin as part of a blog post she wrote on the Paycheck Protection Program
     
     * [Eviction Rates across NYC](https://prunycmapsfigures.github.io/Eviction_data_by_NYC_zipcode.html) 
-        * I created this map to as part of my analyses of eviction rates in NYC
+        * I created this map as part of my analyses of eviction rates in NYC (blog post forthcoming) 
     
 
     
